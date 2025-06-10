@@ -23,5 +23,4 @@ There is a passion for developing and learning new things. From experience, ther
 <div align="center">
 <img width="55%" alt="Dmytro's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DmyTROSAlii&show_icons=true&theme=transparent"/>
 <img width="40%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmyTROSAlii&layout=compact&&langs_count=8"/>
-<img alt="Dmytro's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DmyTROSAlii" />
 </div>
