@@ -5,7 +5,7 @@ There is a passion for developing and learning new things. From experience, ther
 ### :mailbox: Reach me out! 
 
 [![Telegram Badge](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4&link=https%3A%2F%2Ft.me%2Ffoxsutp)](https://t.me/foxsutp) 
-[![Mail Badge](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23EA4335&link=mailto:accwebdmytro38140%40gmail.com)](mailto:accwebdmytro38140%40gmail.com)
+[![Mail Badge](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:accwebdmytro38140@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-salii-028982297)
 [![Resume Badge](https://img.shields.io/badge/resume-a1a1a1?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=a1a1a1&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1faFRkIWHIfZ_nEMQbMD9v38S3Fp7PKSR%2Fview%3Fusp%3Dsharing
 )](https://drive.google.com/file/d/1faFRkIWHIfZ_nEMQbMD9v38S3Fp7PKSR/view?usp=sharing) 
